@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+*.bin
+*.onnx
+*.db
+*.sqlite*
+__pycache__/
+.env*
+google-services.json
+reference.jpg
